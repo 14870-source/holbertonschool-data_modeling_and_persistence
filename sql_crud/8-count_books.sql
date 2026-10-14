@@ -1,1 +1,1 @@
-SELECT SUM (DISTINCT stock ) FROM books;
+SELECT COUNT(*) FROM books;
